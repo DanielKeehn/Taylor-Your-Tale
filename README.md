@@ -18,12 +18,13 @@ To control this game, just type on your keyboard like you normally would type
 7)	There are 3 “magic words” displayed on the left side of the screen players must include in their story 
 8)	If all magic words are used, the players can hear and save their story
 
-In-Game Images 
+## In Game Image
+![](Title.png)
 
 ## Credits:
 ### Processing (https://processing.org/)
 Processing is a Java based data visualization tool used to create this project 
 ### Emily Polanco 
-(Visual Design aspects of game)
+Did all the visual design aspects of the game
 ### Jeremiah Dir 
-(wrote some of the code)
+Wrote some of the code for the game
